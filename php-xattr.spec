@@ -4,7 +4,7 @@
 #
 Name     : php-xattr
 Version  : 1.3.0
-Release  : 4
+Release  : 5
 URL      : https://pecl.php.net//get/xattr-1.3.0.tgz
 Source0  : https://pecl.php.net//get/xattr-1.3.0.tgz
 Summary  : No detailed summary available
